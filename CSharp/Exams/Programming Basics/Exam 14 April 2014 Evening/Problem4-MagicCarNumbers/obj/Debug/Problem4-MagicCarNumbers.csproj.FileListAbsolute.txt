@@ -1,0 +1,6 @@
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem4-MagicCarNumbers\bin\Debug\Problem4-MagicCarNumbers.exe.config
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem4-MagicCarNumbers\bin\Debug\Problem4-MagicCarNumbers.exe
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem4-MagicCarNumbers\bin\Debug\Problem4-MagicCarNumbers.pdb
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem4-MagicCarNumbers\obj\Debug\Problem4-MagicCarNumbers.csprojResolveAssemblyReference.cache
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem4-MagicCarNumbers\obj\Debug\Problem4-MagicCarNumbers.exe
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem4-MagicCarNumbers\obj\Debug\Problem4-MagicCarNumbers.pdb

@@ -1,0 +1,6 @@
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem1-InsideTheBuilding\bin\Debug\Problem1-InsideTheBuilding.exe.config
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem1-InsideTheBuilding\bin\Debug\Problem1-InsideTheBuilding.exe
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem1-InsideTheBuilding\bin\Debug\Problem1-InsideTheBuilding.pdb
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem1-InsideTheBuilding\obj\Debug\Problem1-InsideTheBuilding.csprojResolveAssemblyReference.cache
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem1-InsideTheBuilding\obj\Debug\Problem1-InsideTheBuilding.exe
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem1-InsideTheBuilding\obj\Debug\Problem1-InsideTheBuilding.pdb

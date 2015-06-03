@@ -1,0 +1,6 @@
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem2-StudentCables\bin\Debug\Problem2-StudentCables.exe.config
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem2-StudentCables\bin\Debug\Problem2-StudentCables.exe
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem2-StudentCables\bin\Debug\Problem2-StudentCables.pdb
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem2-StudentCables\obj\Debug\Problem2-StudentCables.csprojResolveAssemblyReference.cache
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem2-StudentCables\obj\Debug\Problem2-StudentCables.exe
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem2-StudentCables\obj\Debug\Problem2-StudentCables.pdb

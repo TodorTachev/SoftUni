@@ -1,0 +1,6 @@
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem3-ProgrammerDNA\bin\Debug\Problem3-ProgrammerDNA.exe.config
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem3-ProgrammerDNA\bin\Debug\Problem3-ProgrammerDNA.exe
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem3-ProgrammerDNA\bin\Debug\Problem3-ProgrammerDNA.pdb
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem3-ProgrammerDNA\obj\Debug\Problem3-ProgrammerDNA.csprojResolveAssemblyReference.cache
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem3-ProgrammerDNA\obj\Debug\Problem3-ProgrammerDNA.exe
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem3-ProgrammerDNA\obj\Debug\Problem3-ProgrammerDNA.pdb

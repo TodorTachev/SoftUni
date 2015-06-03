@@ -1,0 +1,6 @@
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem5-BitFlipper\bin\Debug\Problem5-BitFlipper.exe.config
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem5-BitFlipper\bin\Debug\Problem5-BitFlipper.exe
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem5-BitFlipper\bin\Debug\Problem5-BitFlipper.pdb
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem5-BitFlipper\obj\Debug\Problem5-BitFlipper.csprojResolveAssemblyReference.cache
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem5-BitFlipper\obj\Debug\Problem5-BitFlipper.exe
+E:\Projects\SoftUni\CSharp\Exams\Programming Basics\Exam 14 April 2014 Evening\Problem5-BitFlipper\obj\Debug\Problem5-BitFlipper.pdb
